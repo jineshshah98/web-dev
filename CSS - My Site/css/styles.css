@@ -10,14 +10,20 @@ h1{
 }
 .top-container{
 	background-color: #E4F9F5;
+	padding: 20px;
+	border: solid 10px;
 }
 .middle-container{
 	background-color: red;
 	height: 200px;
 	width: 200px;
+	margin-left: 260px;
+	border: solid 20px;
 }
 .bottom-container{
-	background-color:red;
+	background-color:yellow;
 	height: 200px;
 	width: 200px;
+	margin-left: 500px;
+	border: 10px;
 }
