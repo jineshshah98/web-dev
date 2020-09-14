@@ -10,6 +10,8 @@ h1{
 }
 .top-container{
 	background-color: #E4F9F5;
+	height: 200px;
+	width: 200px;
 	padding: 20px;
 	border: solid 10px;
 }
