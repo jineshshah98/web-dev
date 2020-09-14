@@ -1,0 +1,42 @@
+.sansserif{
+	font-family: monospace;
+}
+body{
+	background-color: #1D2D50;
+	color: white;
+}
+
+hr{
+	border-style: none;
+	border-top-style: dotted;
+	border-color: #133B5C;
+	border-width: 15px;
+	width: 10%;
+}
+
+h1{
+	color: #FCDAB7;
+	outline: 1px;
+}
+
+h3{
+	color: #FCDAB7;
+}
+
+a{
+	color white;
+}
+a:link{
+	color: white;
+}
+
+a:visited{
+	color: white;
+}
+
+a:hover{
+	color: hotpink;
+}
+a:active{
+	color: blue;
+}
