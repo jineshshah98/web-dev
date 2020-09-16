@@ -1,21 +1,25 @@
 .red{
+	background-color: red;
 	height:200px;
 	width:200px;
 	position: absolute;
-	right:400px;
-	bottom:400px;
+	left:400px;
 }
 .blue{
 	height: 200px;
 	width:200px;
 	position: absolute;
-	right:200px;
-	bottom:200px;
+	left:200px;
+	background-color: blue;
 }
 .yellow{
 	height:200px;
 	width:200px;
 	position: absolute;
-	right: 0px;
-	bottom: 0px;
+	left: 0px;
+	top: 0px;
+	background-color: yellow;
+}
+body{
+		margin:0;
 }
